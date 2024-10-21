@@ -7,3 +7,7 @@
 ```python
 print("Hello world in Python")
 ```
+- [x] Learn Markdown
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
